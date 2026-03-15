@@ -1,5 +1,5 @@
 # Internship Tracker
-
+![Internship Tracker Screenshot](Screenshot%20(367).png)
 A lightweight, browser-based internship application tracker built with vanilla HTML, CSS, and JavaScript.
 
 ## Features
